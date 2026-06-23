@@ -53,7 +53,7 @@ Pressione **Y** para usar o controle:
 
 A mistura de aceleração + direção é feita por *differential drive*:
 
-## 🛠️ Hardware
+## Hardware
 
 | Componente | Qtd. | Função |
 |------------|:----:|--------|
@@ -67,7 +67,7 @@ A mistura de aceleração + direção é feita por *differential drive*:
 | LEDs (farol) | 1+ | Iluminação frontal |
 | Chassi + cases 3D | — | Estrutura |
 
-### 📍 Pinagem (ESP32)
+### Pinagem (ESP32)
 
 | Sinal | GPIO | Observação |
 |-------|:----:|-----------|
@@ -81,4 +81,3 @@ A mistura de aceleração + direção é feita por *differential drive*:
 
 O passo a passo completo de montagem e ligação está em
 **[`Montagem/`](Montagem/)**.
-
